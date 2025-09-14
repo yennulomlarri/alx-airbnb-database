@@ -30,7 +30,7 @@ INSERT INTO payments (booking_id, amount, payment_method, status) VALUES
 
 -- Insert sample reviews
 INSERT INTO reviews (booking_id, rating, comment) VALUES
-(1, 5, 'Amazing stay! The apartment was perfect and the location was great.');
+(1, 5, 'Amazing stay! The apartment was perfect and the location was great.'),
 (2, 4, 'Beautiful beach house, would definitely come back again.');
 
 -- Insert sample messages
